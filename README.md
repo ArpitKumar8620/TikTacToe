@@ -1,8 +1,3 @@
-## Getting Started with Create React App
-This project was bootstrapped with [Create React App]
-## Available Scripts
-In the project directory, you can run:
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+![image](https://github.com/ArpitKumar8620/TikTacToe/assets/70556543/b01bc5f2-c36a-4e2b-89ae-5b85d58047b1)
+1. this project is bootstrapped with --> create-react-app
+2. to start the application --> npm start
